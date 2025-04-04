@@ -20,4 +20,6 @@ I'm currently an undergraduate student at Saddleback College<br>I'm a computer s
 ---
 [![](https://visitcount.itsvg.in/api?id=gaellpz63&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/gaellpz63/gaellpz63/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
