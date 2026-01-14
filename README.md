@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently an undergraduate student at Saddleback College<br>I'm a computer science major<br>I'm proficient in c++, Javascrpit, html, and css
+I'm currently an undergraduate student at Saddleback College studying computer science.<br>Proficient in C++, JavaScrpit, HTML, and CSS and have experience in frontend software design.<br>I've built academic and real-world projects, including data structure implementions and working in a team-based environment using git and GitHub to build a website for a real client.<br>Currently expanding my skills in backend and full-stack development.
 
 
 ## 🌐 Socials:
